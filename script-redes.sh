@@ -1,8 +1,9 @@
 #!/bin/bash
 
 sudo apt uptade
+sudo apt-get update
 sudo apt install gedit
-sudo apt install git 
+sudo apt install net-tools
 
 sudo apt install gcc
 sudo apt install libc6-dev-amd64
